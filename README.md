@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multi-Cloud Implementation With Cloud Anthos
 ![ProjectArch!](https://github.com/awanmbandi/realworld-microservice-projects/blob/zdocs/images/cloud_anthos_arch_project_v2.png)
 
@@ -587,5 +586,3 @@ service/webapp created
 
 
 
-=======
->>>>>>> 21e62f2758b8375a33b29e6b441a92ff70debeb6
